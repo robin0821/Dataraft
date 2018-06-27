@@ -18,4 +18,5 @@ DataRaft can help you effectively execute your customer growth program on the  S
 
 <h2>Contact Us</h2>
 https://dataraft.com.au/staff/fergus-dobbins/
-fergus.dobbins@dataraft.com.au
+
+Email: fergus.dobbins@dataraft.com.au
