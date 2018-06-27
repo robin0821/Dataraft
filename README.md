@@ -1,6 +1,7 @@
 # Dataraft
 
-About Us
+<h2>About Us</h2>
+
 DataRaft provides services in Customer Strategy and Data Analytics.  Our unique value comes from our domain expertise from experience working in senior strategy and marketing roles for ASX 200 organisations.
 
 We are experts in business and analytics.
