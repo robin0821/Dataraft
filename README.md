@@ -6,7 +6,7 @@ DataRaft provides services in Customer Strategy and Data Analytics.  Our unique 
 
 We are experts in business and analytics.
 
-Why choose us
+<h2>Why choose us</h2>
 - Customer Growth
 Equipped with a business strategy toolkit and a creative approach to problem solving, we are uniquely qualified to help you identify and realise value from your data.
 
@@ -16,6 +16,6 @@ DataRaft provides insightful analytics and quality data that can be trusted to m
 - Salesforce Optimisation
 DataRaft can help you effectively execute your customer growth program on the  Salesforce® customer success platform.
 
-Contact Us
+<h2>Contact Us</h2>
 https://dataraft.com.au/staff/fergus-dobbins/
 fergus.dobbins@dataraft.com.au
